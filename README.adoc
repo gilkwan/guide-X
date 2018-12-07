@@ -2,7 +2,7 @@
 :template-url: https://github.com/OpenLiberty/guides-template
 :common-includes: https://raw.githubusercontent.com/OpenLiberty/guides-common/master
 
-Welcome "guide-X.dev gilkwan change 3" to Open Liberty! In order to contribute a guide for Open Liberty, follow the steps in this README.
+Welcome "guide-X.dev gilkwan change 4" to Open Liberty! In order to contribute a guide for Open Liberty, follow the steps in this README.
 
 ### Step 1: Set up your computer.
 
